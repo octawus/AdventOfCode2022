@@ -20,7 +20,5 @@ for line in lines:
         check_and_add(highest_calories, sum_of_calories)
         sum_of_calories = 0
         
-        
-
 print(f"Top 3 elfs: {highest_calories}")
 print(f"The highest calories are: {sum(highest_calories)}")
