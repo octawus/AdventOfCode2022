@@ -1,6 +1,5 @@
 #MOVEMENT FORMAT
 #move 2 from 4 to 6
-import pprint
 import pandas as pd
 
 def obtain_easy_to_work_with_data(file):
